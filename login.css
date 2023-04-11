@@ -139,4 +139,10 @@ form .form-details{
     border-color: #160000;
     border: #160000;
 } 
+@media screen and (max-width: 400px) {
+    .form{
+        padding: 20px 10px;
+    }
+    
+}
 
